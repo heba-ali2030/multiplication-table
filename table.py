@@ -1,4 +1,4 @@
-# multiplication table
+# Normal multiplication table
 method= input('choose N for normal table and R for reverse table:  ')
 number= int(input("choose a number: "))
 if method =='N':
